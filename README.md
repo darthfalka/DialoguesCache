@@ -1,5 +1,5 @@
 
-# Nostalgic footprints
+# Furry Tokens
 
 This respiratory contains experiments on modeling problems using word tokens. Rather than relying on popular models like transformers, I decided to revisit some earlier NLP models from the past.
 
