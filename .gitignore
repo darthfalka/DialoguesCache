@@ -171,28 +171,8 @@ sample.csv
 # Ignore scripts and notebooks
 experiment_1.py
 experiment_2.py
-experiment_2_playbook.ipynb
-gloveutils.py
 manual_model.py
 test_01032024_hugging.ipynb
 word_analysis_1.ipynb
 word_analysis_2.ipynb
 
-# Ignore Python cache files
-__pycache__/
-
-# Ignore data directories
-glove.6B/
-speechdata/
-
-# Ignore specific files
-sample.csv
-
-# Ignore scripts and notebooks
-manual_model.py
-experiment_1.py
-experiment_2.py
-experiment_2_playbook.ipynb
-test_01032024_hugging.ipynb
-word_analysis_1.ipynb
-word_analysis_2.ipynb
